@@ -1,0 +1,20 @@
+From 7356fada2d6c23e42319cbc9a8db1a52a786c943 Mon Sep 17 00:00:00 2001
+From: Fernando-Partal <fpgsfc@gmail.com>
+Date: Sun, 12 Oct 2025 22:45:16 +0200
+Subject: [PATCH] feat: Commit a exportar
+
+---
+ archivo_nuevo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo_nuevo.txt
+
+diff --git a/archivo_nuevo.txt b/archivo_nuevo.txt
+new file mode 100644
+index 0000000..41cd3f1
+--- /dev/null
++++ b/archivo_nuevo.txt
+@@ -0,0 +1 @@
++Este es un nuevo commit
+-- 
+2.43.0
+
